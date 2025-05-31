@@ -1,0 +1,4 @@
+This crate has been moved [0] into our common workspace for rust crates [1].
+
+[0]: https://git.proxmox.com/?p=proxmox.git;a=commit;h=75f8bc049ff91a0d46a44a0354943c5c0cc1c15a
+[1]: https://git.proxmox.com/?p=proxmox.git;a=summary
